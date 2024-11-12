@@ -20,9 +20,6 @@ Two different modes of opera-tions are defined for the system: stable and deteri
 
 The proposed approach is integrated with the 5G network. An innovative orchestrator will be connected to the COMO5 platform in order to reconfigure the 5G link and ensure that patients in deteriorating conditions has priority over the others, thus allowing real-time data transmission and also live consultation between the patient and the clinician.
 
-![immagine](https://github.com/user-attachments/assets/958dad21-7653-48fe-9ad0-c8935122e08a)
-
-
 ---
 
 ### Main Objectives
