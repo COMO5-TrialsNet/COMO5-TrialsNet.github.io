@@ -23,5 +23,10 @@ The proposed approach is integrated with the 5G network. An innovative orchestra
 ---
 
 ### Main Objectives
-- Demonstrate the feasibility of continuous, real-time monitoring and the oppurtinities offered by 5G/6G networks.
+- Demonstrate the feasibility of continuous, real-time monitoring exploiting active support from future 5G/6G networks.
 - Assess the perceived societal and economic impact from the perspective of chronic patients.
+
+---
+
+### Trials
+Trials will be executed on the CNR site in Pisa, where other two Use Cases will take place, i.e., UC7 - Remote Proctoring and UC8 - Smart Ambulance.
